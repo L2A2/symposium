@@ -7,7 +7,10 @@ In April 2019, as part of the annual conference of the Society for Aritificial I
 [AISB conference website](http://aisb2019.falmouthgamesacademy.com/)
 
 ### Important Dates
-submission deadline: 17:00 GMT, 1 February, 2019
-notification: 15 March, 2019
-camera-ready final drafts: 25 March, 2019
-conference: 16 - 18 April, 2019 (exact date of our symposium TBD)
+_submission deadline:_ 17:00 GMT, 1 February, 2019
+
+_notification:_ 15 March, 2019
+
+_camera-ready final drafts:_ 25 March, 2019
+
+_conference:_ 16 - 18 April, 2019 (exact date of our symposium TBD)
