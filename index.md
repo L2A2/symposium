@@ -1,39 +1,13 @@
-This is our site.
+#A Symposium Exploring Grounded Language Learning
+In April 2019, as part of the annual conference of the Society for Aritificial Intelligence and Simulated Behaviour (AISB), we'll be holding a symposium on Language Learning for Artificial Agents.
 
-## Welcome to GitHub Pages
+###Links
+[submission portal](https://easychair.org/conferences/?conf=l2a2)
+[document templates](http://aisb2019.falmouthgamesacademy.com/wp-content/uploads/2018/11/AISB2019-style.zip)
+[AISB conference website](http://aisb2019.falmouthgamesacademy.com/)
 
-You can use the [editor on GitHub](https://github.com/L2A2/symposium/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/L2A2/symposium/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###Important Dates
+submission deadline: 17:00 GMT, 1 February, 2019
+notification: 15 March, 2019
+camera-ready final drafts: 25 March, 2019
+conference: 16 - 18 April, 2019 (exact date of our symposium TBD)
