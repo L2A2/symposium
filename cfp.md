@@ -3,7 +3,7 @@
 ### AISB Symposium on Language Learning for Aritificial Agents (L2A2)
 ### First Call for Papers
 
-We are pleased to announce the inception of a new Symposium on Language Learning for Artificial Agents, to be held as part of the 2019 edition of the annual conference of the Society for Artificial Intelligence and Simulated Behaviour (AISB).  The conference will take place at the University of Falmouth, Cornwall, UK, 16-18 April, 2019.
+We are pleased to announce the inception of a new Symposium on Language Learning for Artificial Agents, to be held as part of the 2019 edition of the annual conference of the Society for Artificial Intelligence and Simulated Behaviour (AISB).  The conference will take place at Falmouth University, Cornwall, UK, 16-18 April, 2019.
 
 Our symposium will be a venue for presenting and discussing recent and ongoing work in the various areas related to the development of artificial linguistic agents.  At the heart of this event is the topic of grounded language learning and the host of computational techniques that are being explored as approaches to this scientifically and socially significant area of research.
 
@@ -40,7 +40,7 @@ And keep an eye on our symposium website for any forthcoming updates:
 
 [https://l2a2.github.io/symposium](https://l2a2.github.io/symposium)
 
-All submissions will be peer-reviewed by members of our programme committee (details to be announced very soon).  Authors of accepted papers will be expected to give a 30 minute (long papers) or 15 minute (short papers) presentation at the symposium.  Papers will be published as part of the proceedings of AISB 2019.
+All submissions will be peer-reviewed by members of our programme committee (details to be announced very soon).  Authors of accepted papers will be expected to give a 30 minute (long papers) or 15 minute (short papers) presentation at the symposium.  (Please note participating authors will be require to register with the conference.)  Papers will be published as part of the proceedings of AISB 2019.
 
 Review will be double-blind, so please avoid including any information which might identify authors in submissions.  Submissions should be made according to the AISB style guidelines.  LaTeX and Word Templates can be found here (direct link to download):
 
