@@ -1,4 +1,4 @@
-# A Symposium Exploring Grounded Language Learning
+# A Symposium Exploring Grounded Language Learning Technology
 In April 2019, as part of the annual conference of the Society for Aritificial Intelligence and Simulated Behaviour (AISB), we'll be holding a symposium on Language Learning for Artificial Agents.
 
 ### Important Dates
