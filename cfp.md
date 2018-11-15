@@ -26,7 +26,7 @@ We anticipate an event exploring the boundary between theory and practice, embra
 - Evolutionary computational linguistics
 - Social considerations in developing artificial linguistic agents
 
-Important Dates:
+Important Dates:  
 _submission deadline_ – 1 February, 2019  
 _notification_ – 15 March, 2019  
 _camera-ready_ final draft – 25 March, 2019  
