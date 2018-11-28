@@ -26,6 +26,9 @@ We anticipate an event exploring the boundary between theory and practice, embra
 - Evolutionary computational linguistics
 - Social considerations in developing artificial linguistic agents
 
+Keynote Speaker: **Luc Steels**
+We are very pleased to announce that Luc Steels, Senior Research Professor at the Institut de Biologia Evolutiva (UPF-CSIC) Barcelona, will be giving a keynote lecture as part of the symposium.  Luc has been a seminal figure in Artificial Intelligence and Knowledge Technology over the past four decades.  He founded the Artificial Intelligence Laboratory at the Free University of Brussels in 1983, and since then has been involved in major projects covering the full range of topics at the heart of AI, from expert systems to neural networks and sustainable computing.  Of particular relevance to our symposium is his groundbreaking work on evolutionary linguistics, fluid construction grammar, and language-using robots. 
+
 Important Dates:  
 _submission deadline_ – 1 February, 2019  
 _notification_ – 15 March, 2019  
@@ -49,3 +52,7 @@ Review will be double-blind, so please avoid including any information which mig
 Symposium participants will be able to take part in a range of other symposia and workshops taking place at AISB 2019.  For more details on the conference, including information about location, accommodation, and registration, please follow this link:
 
 [http://aisb2019.falmouthgamesacademy.com/](http://aisb2019.falmouthgamesacademy.com/)
+
+See here for a pdf version of this call for papers:
+
+[http://l2a2.github.io/cfp-pdf.pdf](http://l2a2.github.io/cfp-pdf.pdf)
