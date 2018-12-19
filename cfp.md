@@ -43,7 +43,7 @@ And keep an eye on our symposium website for any forthcoming updates:
 
 [https://l2a2.github.io/symposium](https://l2a2.github.io/symposium)
 
-All submissions will be peer-reviewed by members of our programme committee (details to be announced very soon).  Authors of accepted papers will be expected to give a 30 minute (long papers) or 15 minute (short papers) presentation at the symposium.  (Please note participating authors will be required to register with the conference.)  Papers will be published as part of the proceedings of AISB 2019.
+All submissions will be peer-reviewed by members of our programme committee.  Authors of accepted papers will be expected to give a 30 minute (long papers) or 15 minute (short papers) presentation at the symposium.  (Please note participating authors will be required to register with the conference.)  Papers will be published as part of the proceedings of AISB 2019.
 
 Review will be double-blind, so please avoid including any information which might identify authors in submissions.  Submissions should be made according to the AISB style guidelines.  LaTeX and Word Templates can be found here (direct link to download):
 
