@@ -18,5 +18,7 @@
 
 [**Remi van Trijp**](https://csl.sony.fr/team/dr-remi-van-trijp/) - *Sony CSL*
 
+[**Tony Veale**](http://afflatus.ucd.ie/) - *University College Dublin*
+
 [**Geraint Wiggins**](https://ai.vub.ac.be/members/geraint-wiggins) - *Vrije Universiteit Brussel*
 
