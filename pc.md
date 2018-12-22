@@ -2,6 +2,8 @@
 
 **Muhannad Alomari** - *Rolls-Royce*
 
+[**Angelo Cangelosi**](https://www.research.manchester.ac.uk/portal/angelo.cangelosi.html) - *University of Manchester*
+
 [**Chloé Clavel**](https://clavel.wp.imt.fr/) - *Telecom-ParisTech*
 
 **Maria Ferrer**
