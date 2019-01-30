@@ -1,7 +1,7 @@
 # Call for Papers
 
 ### AISB Symposium on Language Learning for Aritificial Agents (L2A2)
-### First Call for Papers
+### Final Call for Papers - **Deadline extended to 8 February**
 
 We are pleased to announce the inception of a new Symposium on Language Learning for Artificial Agents, to be held as part of the 2019 edition of the annual conference of the Society for Artificial Intelligence and Simulated Behaviour (AISB).  The conference will take place at Falmouth University, Cornwall, UK, 16-18 April, 2019.
 
@@ -30,9 +30,9 @@ Keynote Speaker: **Luc Steels**
 We are very pleased to announce that Luc Steels, Senior Research Professor at the [Institut de Biologia Evolutiva (UPF-CSIC)](https://www.upf.edu/web/icrea-luc-steels) Barcelona, will be giving a keynote lecture as part of the symposium.  Luc has been a seminal figure in Artificial Intelligence and Knowledge Technology over the past four decades.  He founded the Artificial Intelligence Laboratory at the Free University of Brussels in 1983, and since then has been involved in major projects covering the full range of topics at the heart of AI, from expert systems to neural networks and sustainable computing.  Of particular relevance to our symposium is his groundbreaking work on evolutionary linguistics, fluid construction grammar, and language-using robots. 
 
 Important Dates:  
-_submission deadline_ – 1 February, 2019  
-_notification_ – 15 March, 2019  
-_camera-ready_ final draft – 25 March, 2019  
+_submission deadline_ – 8 February, 2019  
+_notification_ –  28 February, 2019  
+_camera-ready_ final draft – 18 March, 2019  
 _conference_ – 16-18 April, 2019  
 
 Authors may submit short papers of up to four pages or long papers of up to eight pages (page counts excluding references).  Please submit papers through our symposium portal:
@@ -56,3 +56,7 @@ Symposium participants will be able to take part in a range of other symposia an
 See here for a pdf version of this call for papers:
 
 [http://l2a2.github.io/cfp-pdf.pdf](http://l2a2.github.io/cfp-pdf.pdf)
+
+Contact:
+
+For any enquiries regarding the symposium, please contact Stephen McGregor by email at [semcgregor@hotmail.com](mailto:semcgregor@hotmail.com).
