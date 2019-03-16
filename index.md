@@ -1,6 +1,6 @@
 # A Symposium Exploring Grounded Language Learning Technology
 
-_UPDATE: dealine extended to **8 February**_
+_UPDATE: deadline extended to **8 February**_
 
 In April 2019, as part of the annual conference of the Society for Artificial Intelligence and Simulated Behaviour (AISB), we will be holding a symposium on Language Learning for Artificial Agents.  This event is intended as an opportunity for researchers from a variety of fields to come together to present and discuss new empirical and theoretical work dealing with the wide range of issues surrounding technological approaches to modelling, simulating, and understanding the way that language users learn language in complex, unpredictable environments, and also to discuss the social and philosophical implications of new in-the-world language technology.
 
